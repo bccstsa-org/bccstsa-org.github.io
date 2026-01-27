@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Jekyll Theme
+title: About B.C. Canada Sepak Takraw Sports Association
 image:
   feature: abstract-5.jpg
   credit: dargadgetz
@@ -9,7 +9,7 @@ comments: false
 modified: 2016-02-01
 ---
 
-They say three times the charm, so here is another free responsive Jekyll blog theme for you. I've learned a ton since open sourcing my first two themes [on Github](http://github.com/mmistakes), and wanted to try a few new things this time around. 
+We are the Vancouver British Columbia Canada SEPAK TAKRAW Association we love our unique sport we play every weekend. Our mission is to promote the sport here in Bc and all over Canada . People that are interested to learn and play the sport we are open on teaching basic skills on how to play.
 
 If you've used any of [my other themes](http://mademistakes.com/work/jekyll-themes/) most of this should be familiar territory...
 

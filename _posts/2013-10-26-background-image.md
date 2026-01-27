@@ -4,7 +4,7 @@ title: BC Canada Sepak Takraw Sports Association
 description: "Sample post with a background image CSS override."
 tags: [sample post]
 image:
-  background: Team.jpeg
+  background: Team.jpg
 ---
 
 We are the Vancouver British Columbia Canada SEPAK TAKRAW Association we love our unique sport we play every weekend. Our mission is to promote the sport here in Bc and all over Canada . People that are interested to learn and play the sport we are open on teaching basic skills on how to play.

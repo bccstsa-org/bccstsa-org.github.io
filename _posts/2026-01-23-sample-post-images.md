@@ -12,7 +12,7 @@ Here are some examples of what a post with images might look like. If you want t
 ### One Up
 
 <figure>
-	<a href="https://www.facebook.com/photo/?fbid=25143819008628612&set=pcb.4249332595278174"><img src="http://farm9.staticflickr.com/8426/7758832526_cc8f681e48_c.jpg" alt=""></a>
+	<a href="https://www.facebook.com/photo/?fbid=25143819008628612&set=pcb.4249332595278174"><img src="https://www.facebook.com/photo/?fbid=25143819008628612&set=pcb.4249332595278174" alt=""></a>
 	<figcaption><a href="https://www.facebook.com/photo/?fbid=25143819008628612&set=pcb.4249332595278174" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
 

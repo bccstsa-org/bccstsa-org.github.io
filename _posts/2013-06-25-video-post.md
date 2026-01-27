@@ -5,7 +5,7 @@ description: "Custom written post descriptions are the way to go... if you're no
 tags: [sample post, video]
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GpspnAISCtw?si=xQ3oAj8VA7vGdTx7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/va_2eE0sVKI?si=fh_jkRCGmbTW3pa-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Video embeds are responsive and scale with the width of the main content block with the help of [FitVids](http://fitvidsjs.com/).
 

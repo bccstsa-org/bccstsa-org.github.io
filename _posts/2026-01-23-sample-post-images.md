@@ -13,7 +13,7 @@ Here are some examples of what a post with images might look like. If you want t
 
 <figure>
 	
-	<a data-flickr-embed="true" href="https://www.flickr.com/photos/204135928@N05/55064619255/in/dateposted-public/" title="BC teams"><img src="https://www.facebook.com/photo/?fbid=25143819008628612&set=pcb.4249332595278174" width="500" height="333" alt="BC teams"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+	<a data-flickr-embed="true" href="https://www.facebook.com/photo/?fbid=25143819008628612&set=pcb.4249332595278174" title="BC teams"><img src="https://live.staticflickr.com/65535/55064619255_3c8316d649.jpg" width="500" height="333" alt="BC teams"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 	
 </figure>
 

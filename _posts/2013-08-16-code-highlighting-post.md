@@ -47,6 +47,8 @@ GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/c
     <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
   {% endif %}
 </nav><!-- /.pagination -->{% endraw %}
+
+<!--
 ```
 
 {% highlight html linenos %}
@@ -59,7 +61,8 @@ GitHub Flavored Markdown [fenced code blocks](https://help.github.com/articles/c
   {% endif %}
 </nav><!-- /.pagination -->{% endraw %}
 {% endhighlight %}
-
+-->
+<!--
 ```ruby
 module Jekyll
   class TagIndex < Page
@@ -102,3 +105,4 @@ Indentation matters. Be sure the indent of the code block aligns with the first 
 An example of a Gist embed below.
 
 {% gist mmistakes/6589546 %}
+-->

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Sepak Takraw?
+title: What is Sepak Takraws?
 description: "Sample post with a background image CSS override."
 tags: [sample post]
 image:

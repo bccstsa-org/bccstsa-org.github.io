@@ -12,10 +12,6 @@ and head—but never hands—to send a synthetic or rattan ball over a net. Ofte
 it features acrobatic, high-flying aerial kicks on a badminton-sized court. 
 
 
-```yaml
-image:
-  background: filename.png
-```
 
 <This little bit of YAML makes the assumption that your background image asset is in the `/images` folder. If you place it somewhere else or are hotlinking from the web, just include the full http(s):// URL. Either way you should have a background image that is tiled.
 \

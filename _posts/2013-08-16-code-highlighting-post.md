@@ -1,3 +1,4 @@
+<!--
 ---
 layout: post
 title: Syntax Highlighting Post
